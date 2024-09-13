@@ -7,6 +7,8 @@
 
 numpy
 matplotlib
+statsmodels
+altair
 pandas
 scipy
 seaborn
